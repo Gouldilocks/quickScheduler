@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/loggityloglog/CLionProjects/untitled/Organizer.cpp
+iostream
+-
+Organizer.h
+/home/loggityloglog/CLionProjects/untitled/Organizer.h
+fstream
+-
+sstream
+-
+
+/home/loggityloglog/CLionProjects/untitled/Organizer.h
+vector
+-
+person.h
+/home/loggityloglog/CLionProjects/untitled/person.h
+
+/home/loggityloglog/CLionProjects/untitled/main.cpp
+iostream
+-
+Organizer.h
+/home/loggityloglog/CLionProjects/untitled/Organizer.h
+
+/home/loggityloglog/CLionProjects/untitled/person.h
+iostream
+-
+vector
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/Organizer.cpp.o CMakeFiles/untitled.dir/person.cpp.o  -o untitled 

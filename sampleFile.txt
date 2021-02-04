@@ -1,0 +1,16 @@
+Christian Gould
+10am-2.5pm|3pm-5pm
+7am-10.5am|6pm-6.5pm|9pm-10pm
+11am-5pm
+2pm-4pm|10pm-12pm
+11am-11.5am|2.5pm-4pm
+
+1.5pm-3pm|8pm-9pm
+George Costanza
+10am-2.5pm|3pm-5pm
+6pm-6.5pm|9pm-10pm
+1pm-3pm
+2pm-4pm
+11am-11.5am|2.5pm-4pm
+
+2pm-3pm|8pm-9pm

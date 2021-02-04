@@ -1,0 +1,22 @@
+/*
+Format:
+------------------------------
+{name}
+{sunday avail}
+{monday avail}
+{tuesday avail}
+{wednesday avail}
+{thursday avail}
+{friday avail}
+{saturday avail}
+-------------------------------
+avail format: (all times in military time)
+times will only go to the 30 minute increment,
+and use decimals to indicate. ex) 3:50pm = 15.5, 11:00am = 11
+{begin time},{end time}|{begin time},{end time}....
+if no availability, leave line blank
+
+Examples in sampleFile.txt:
+
+path on my home system
+/home/loggityloglog/CLionProjects/untitled/sampleFile.txt
